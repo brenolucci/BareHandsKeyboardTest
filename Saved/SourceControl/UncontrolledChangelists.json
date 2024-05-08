@@ -5,13 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Epic Games/Bare_Hands_Keyboard/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Epic Games/Bare_Hands_Keyboard/Content/Keyboard_Button.uasset",
-				"D:/Epic Games/Bare_Hands_Keyboard/Content/Flicked_Buttons.uasset",
-				"D:/Epic Games/Bare_Hands_Keyboard/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"D:/Epic Games/Bare_Hands_Keyboard/Content/Quest2/P_VRPawn.uasset",
-				"D:/Epic Games/Bare_Hands_Keyboard/Content/Quest2/GM_FreeHand.uasset",
-				"D:/Epic Games/Bare_Hands_Keyboard/Content/Quest2/GM_FreeHandGameMode.uasset"
+				"D:/Epic Games/Blank/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Epic Games/Blank/Content/NewMap.umap",
+				"D:/Epic Games/Blank/Content/Blueprints/P_VRPawn.uasset",
+				"D:/Epic Games/Blank/Content/Blueprints/GM_VRPawnGameMode.uasset"
 			]
 		}
 	]
